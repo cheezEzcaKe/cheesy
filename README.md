@@ -2,9 +2,6 @@
 <div align="center">
   <img src="hyperrrrrr.gif" width="300">
 </div>
-<div align="center">
-  <img src="hyperrrrrr.gif" width="350">
-</div>
 
 <h3 align="center">heyyy welcome to my page!!</h3>
 
