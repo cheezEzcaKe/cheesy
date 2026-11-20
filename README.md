@@ -8,4 +8,7 @@
 <div align="center">
   ☆彡 just a silly person ☆彡
 </div>
-
+<div align="center">
+  <img src="hyperrrrrr.gif" width="250">
+  <img src="hyperlaser-phighting.gif" width="250">
+</div>
